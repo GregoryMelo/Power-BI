@@ -1,0 +1,38 @@
+Criar as medidas DAX:
+
+#Vendas = Contar quantas vendas foram feitas no total
+#Vendas = count(Vendas[Data da Venda])
+
+
+#Qtd = Somar as quantidades vendidas
+#Qtd = calculate(sum(Vendas[Qtd Vendida]))
+
+
+#Faturado = Somar o total de dinheiro das vendas
+#Faturado = sum(vendas[Faturamento])
+
+#clientes = contar para quantos clientes distintos a empresa vendeu
+#Clientes = DISTINCTCOUNT(Vendas[Codigo Cliente]) 
+
+
+#TotalFaturado = Somar o total de dinheiro das vendas retirando os filtros 
+#TotalFaturado = CALCULATE([#Faturado],REMOVEFILTERS())
+
+
+#Total Qtd = Somar as quantidades vendidas retirando os filtros
+#Total Qtd = CALCULATE([#Qtd],REMOVEFILTERS()) 
+
+
+#%Qtd = Dividir a Qtd pelo TotalQtd
+#%Qtd = [#qtd]/CALCULATE([#qtd],REMOVEFILTERS()) 
+
+
+#%Faturado = Dividir o Faturado pelo TotalFaturado
+#%Faturado = [#Faturado]/CALCULATE([#Faturado],REMOVEFILTERS()) 
+
+
+#Ticket Médio = Dividir o Fataurado pela Quantidade Faturada
+#Ticket Médio = Vendas[#Faturado] / Vendas[#Qtd]
+
+Criar os visuais
+
