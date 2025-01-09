@@ -30,6 +30,16 @@ O curso abordou diversas ferramentas avançadas do Power BI, proporcionando habi
   
   ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
+## Dashboards Desenvolvidos
+
+Durante o curso, foram desenvolvidos um total de cinco dashboards eficientes:
+
+- Dashboard Bike
+- Dashboard Logistica
+- Dashboard Projetos
+- Dashboard RH
+- Dashboard Vendas
+
 ## Conclusão
 
 #### Este curso foi fundamental para desenvolver competências práticas e teóricas em análise de dados, utilizando o Power BI para criar relatórios e dashboards interativos.
