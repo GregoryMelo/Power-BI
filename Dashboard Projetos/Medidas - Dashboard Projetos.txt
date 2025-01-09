@@ -1,0 +1,9 @@
+Atividades = COUNT(Dados[Atividade])
+Dias Executados = sum(Dados[Dias Executados])
+Dias Duração = sum(Dados[Dias Duração])
+Responsável = DISTINCTCOUNT(Dados[Responsável])
+Peso = [Atividades]/[Responsável]
+Conclusão = [Dias Executados]/[Dias Duração]
+Gasto = SUM(Dados[Valor Usado])
+Orçado = SUM(Dados[Valor Orçamento])
+Custo = [Gasto]/[Orçado]
