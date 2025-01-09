@@ -1,0 +1,25 @@
+#Total de receitas = SUM(Frete[Valor do Frete Líquido])
+
+#Total de custos = SUM(Frete[Custos gerais])
+
+#Qtd viagens = COUNTROWS(Frete)+0
+
+#Lucro = [#Total de receitas]-[#Total de custos]
+
+#Infull = CALCULATE([#Qtd viagens],Frete[Ocorrência]="Nenhuma")
+
+#Ontime = CALCULATE([#Qtd viagens],Frete[OnTime]="Sim")
+
+#Ocorrência = CALCULATE([#Qtd viagens],Frete[Ocorrência]<>"Nenhuma")+0
+
+#%Infull = [#Infull]/[#QTD viagens]
+
+#%Ontime = [#Ontime]/[#Qtd viagens]
+
+#OTIF = Frete[#%Infull]*Frete[#%Ontime]
+
+#%Ocorrências = DIVIDE([#ocorrência],[#Qtd viagens])+0
+
+#%Receita = [#Total de receitas]/CALCULATE([#Total de receitas],REMOVEFILTERS())
+
+#%Custo = [#Total de custos]/CALCULATE([#Total de custos],REMOVEFILTERS(Frete))
