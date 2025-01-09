@@ -1,0 +1,18 @@
+1
+Quantidade de Camisa = CALCULATE(COUNTROWS(ItensVendas),ItensVendas[ProdutoID]=10)
+
+
+2
+Quantidade de bike = CALCULATE( COUNTROWS(ItensVendas),ItensVendas[ProdutoID]=1)+CALCULATE( COUNTROWS(ItensVendas),ItensVendas[ProdutoID]=2)+CALCULATE( COUNTROWS(ItensVendas),ItensVendas[ProdutoID]=3)+CALCULATE( COUNTROWS(ItensVendas),ItensVendas[ProdutoID]=4)+CALCULATE( COUNTROWS(ItensVendas),ItensVendas[ProdutoID]=5)+CALCULATE( COUNTROWS(ItensVendas),ItensVendas[ProdutoID]=6)
+
+
+3
+Quantidade de Bermuda = CALCULATE( COUNTROWS(ItensVendas),ItensVendas[ProdutoID]=9)
+
+
+4
+Quantidade de Capacete = CALCULATE( COUNTROWS(ItensVendas),ItensVendas[ProdutoID]=7)
+
+
+5
+Quantidade de Luva = CALCULATE( COUNTROWS(ItensVendas),ItensVendas[ProdutoID]=8)
