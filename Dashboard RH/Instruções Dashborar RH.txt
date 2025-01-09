@@ -1,0 +1,23 @@
+a) Cartão: Total dos Salários
+
+b) Cartão: Total de funcionários
+
+c) Gráfico de colunas:  
+Eixo X: Departamento, Eixo Y: ID (usar contagem)
+
+d) Gráfico de funil: 
+Categoria: faixa de idade, Valores: ID (usar contagem)
+
+e) Gráfico de rosca: 
+Legenda: Sexo, Valores: ID
+
+f) Gráfico de barras: 
+Eixo X: Ano, Eixo Y ID
+
+g) Matriz: 
+Linhas: Departamento e Cargo, Valores: Salário, Salário (em percentual)
+
+h) Segmentação de dados: 
+Campo: Departamento
+
+

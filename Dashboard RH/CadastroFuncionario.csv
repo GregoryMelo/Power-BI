@@ -1,0 +1,208 @@
+﻿ID;Nome;Cidade;Estado
+S0671;Gustavo Lima;Barueri;São Paulo
+S0672;Henrique Gonçalves;Bauru;São Paulo
+S0673;Heloísa Gonçalves;Campinas;São Paulo
+S0674;Ísis Oliveira;Carapicuíba;São Paulo
+S0675;Inácio Costa;Diadema;São Paulo
+S0676;João Moreira;Franca;São Paulo
+S0677;Júlia Santos;Guarulhos;São Paulo
+S0678;Karina Costa;Itaquaquecetuba;São Paulo
+S0679;Kauê Moreira;Jundiaí;São Paulo
+S0680;Lúcia Santos;Limeira;São Paulo
+S0681;Letícia Pereira;Mauá;São Paulo
+S0682;Marcelo Lima;Barueri;São Paulo
+S0683;Marcos Gonçalves;Bauru;São Paulo
+S0684;Nícolas Gonçalves;Campinas;São Paulo
+S0685;Nícolas Oliveira;Carapicuíba;São Paulo
+S0686;Olivia Costa;Ribeirão Pires;São Paulo
+S0687;Olivia Costa;Rio Grande da Serra;São Paulo
+S0688;Pedro Moreira;Santo André;São Paulo
+S0689;Paulo Moreira;Santos;São Paulo
+S0690;Quésia Pereira;São Bernardo do Campo;São Paulo
+S0691;Rafaela Silva;São Caetano do Sul;São Paulo
+S0692;Roberta Silva;São José dos Campos;São Paulo
+S0693;Sérgio Mendes;São Paulo;São Paulo
+S0694;Samuel Oliveira;Sâo Vicente;São Paulo
+S0695;Teresa Lima;Sorocaba;São Paulo
+S0696;Tadeu Moreira;Suzano;São Paulo
+S0697;Uirá Gonçalves;Taubaté;São Paulo
+S0698;Úrsula Costa;Valinhos;São Paulo
+S0699;Victor Costa;Barueri;São Paulo
+S0700;Vagner Mendes;Bauru;São Paulo
+S0701;Wesley Moreira;Campinas;São Paulo
+S0702;Wellington Gonçalves;Carapicuíba;São Paulo
+S0703;Xana Oliveira;Barueri;São Paulo
+S0704;Xana Moreira;Bauru;São Paulo
+S0705;Yara Santos;Campinas;São Paulo
+S0706;Yasmin Santos;Carapicuíba;São Paulo
+S0707;Zeca Gonçalves;Jundiaí;São Paulo
+S0708;Zuleica Oliveira;Limeira;São Paulo
+S0709;Bárbara Costa;Mauá;São Paulo
+S0710;Aline Costa;Mogi das Cruzes;São Paulo
+S0711;Caio Mendes;Osasco;São Paulo
+S0712;Breno Pereira;Piracicaba;São Paulo
+S0713;Daniela Lima;Praia Grande;São Paulo
+S0714;Caio Silva;Ribeirão Pires;São Paulo
+S0715;Clara Santos;Rio Grande da Serra;São Paulo
+S0716;Débora Moreira;Santo André;São Paulo
+S0717;Davi Moreira;Santos;São Paulo
+S0718;Elisa Lima;São Bernardo do Campo;São Paulo
+S0719;Elisa Pereira;São Caetano do Sul;São Paulo
+S0720;Fabiano Gonçalves;São José dos Campos;São Paulo
+S0721;Fabrício Gonçalves;São Paulo;São Paulo
+S0722;Gabriel Costa;Sâo Vicente;São Paulo
+S0723;Gabriela Costa;Sorocaba;São Paulo
+S0724;Helena Santos;Suzano;São Paulo
+S0725;Heitor Lima;Taubaté;São Paulo
+S0726;Inácio Moreira;Valinhos;São Paulo
+S0727;Igor Santos;São Caetano do Sul;São Paulo
+S0728;Jéssica Gonçalves;Sâo Josê dos Campos;São Paulo
+S0729;Júlia Gonçalves;São José dos Campos;São Paulo
+S0730;Kauê Oliveira;Sâo Paulo;São Paulo
+S0731;Kauê Costa;São Paulo;São Paulo
+S0732;Larissa Moreira;Sâo Vicente;São Paulo
+S0733;Larissa Moreira;Sorocaba;São Paulo
+S0734;Marcelo Costa;Suzano;São Paulo
+S0735;Marcos Silva;Taubaté;São Paulo
+S0736;Natália Gonçalves;Valinhos;São Paulo
+S0737;Nádia Gonçalves;Barueri;São Paulo
+S0738;Otávio Santos;Bauru;São Paulo
+S0739;Olivia Moreira;Campinas;São Paulo
+S0740;Pedro Moreira;Carapicuíba;São Paulo
+S0741;Pedro Costa;Diadema;São Paulo
+S0742;Quirino Pereira;Franca;São Paulo
+S0743;Quirino Silva;Guarulhos;São Paulo
+S0744;Ricardo Silva;Itaquaquecetuba;São Paulo
+S0745;Rafaela Gonçalves;Jundiaí;São Paulo
+S0746;Sérgio Gonçalves;Limeira;São Paulo
+S0747;Samuel Moreira;Mauá;São Paulo
+S0748;Tainá Costa;Mogi das Cruzes;São Paulo
+S0749;Tatiana Costa;Osasco;São Paulo
+S0750;Ulisses Moreira;Piracicaba;São Paulo
+S0751;Ulisses Pereira;Praia Grande;São Paulo
+S0752;Valéria Oliveira;Ribeirão Pires;São Paulo
+S0753;Valéria Gonçalves;Rio Grande da Serra;São Paulo
+S0754;William Santos;Santo André;São Paulo
+S0755;William Costa;Santos;São Paulo
+S0756;Xênia Pereira;São Bernardo do Campo;São Paulo
+S0757;Xênia Oliveira;São Caetano do Sul;São Paulo
+S0758;Yago Gonçalves;São José dos Campos;São Paulo
+S0759;Yasmin Moreira;São Paulo;São Paulo
+S0760;Zelda Moreira;Sâo Vicente;São Paulo
+S0761;Zuleica Santos;Sorocaba;São Paulo
+S0762;Andréa Costa;Suzano;São Paulo
+S0763;Ana Gonçalves;Taubaté;São Paulo
+S0764;Bernardo Mendes;Valinhos;São Paulo
+S0765;Bruno Costa;Barueri;São Paulo
+S0766;Mariana Santos;Bauru;São Paulo
+S0767;Carolina Pereira;Campinas;São Paulo
+S0768;Natália Lima;Carapicuíba;São Paulo
+S0769;Diego Moreira;Diadema;São Paulo
+S0770;Otávio Gonçalves;Franca;São Paulo
+S0771;Elisa Silva;Guarulhos;São Paulo
+S0772;Paulo Costa;Itaquaquecetuba;São Paulo
+S0773;Felipe Gonçalves;Jundiaí;São Paulo
+S0774;Quésia Moreira;Limeira;São Paulo
+S0775;Gabriela Lima;Mauá;São Paulo
+S0776;Rafaela Silva;Mogi das Cruzes;São Paulo
+S0777;Henrique Moreira;Osasco;São Paulo
+S0778;Samuel Gonçalves;Piracicaba;São Paulo
+S0779;Igor Gonçalves;Praia Grande;São Paulo
+S0780;Tainá Pereira;Ribeirão Pires;São Paulo
+S0781;Júlia Costa;Rio Grande da Serra;São Paulo
+S0782;Ulisses Santos;Santo André;São Paulo
+S0783;Kauê Moreira;Santos;São Paulo
+S0784;Valéria Lima;São Bernardo do Campo;São Paulo
+S0785;Larissa Gonçalves;São Caetano do Sul;São Paulo
+S0786;William Costa;São José dos Campos;São Paulo
+S0787;Marcos Costa;São Paulo;São Paulo
+S0788;Xênia Moreira;Sâo Vicente;São Paulo
+S0789;Natália Oliveira;Sorocaba;São Paulo
+S0790;Yasmin Gonçalves;Suzano;São Paulo
+S0791;Otávio Moreira;Taubaté;São Paulo
+S0792;Zuleica Santos;Valinhos;São Paulo
+S0793;Pedro Gonçalves;Barueri;São Paulo
+S0794;André Costa;Bauru;São Paulo
+S0795;Quésia Lima;Campinas;São Paulo
+S0796;Bianca Gonçalves;Carapicuíba;São Paulo
+S0537;Rafael Costa;Diadema;São Paulo
+S0538;Caio Pereira;Franca;São Paulo
+S0539;Sara Moreira;Guarulhos;São Paulo
+S0540;Diego Santos;Itaquaquecetuba;São Paulo
+S0541;Thales Gonçalves;Jundiaí;São Paulo
+S0542;Elisa Lima;Limeira;São Paulo
+S0543;Ulisses Silva;Mauá;São Paulo
+S0544;Felipe Costa;Mogi das Cruzes;São Paulo
+S0545;Vanessa Moreira;Osasco;São Paulo
+S0546;Gustavo Gonçalves;Piracicaba;São Paulo
+S0547;Wellington Costa;Praia Grande;São Paulo
+S0548;Helena Moreira;Ribeirão Pires;São Paulo
+S0549;Xênia Gonçalves;Rio Grande da Serra;São Paulo
+S0550;Inácio Santos;Santo André;São Paulo
+S0551;Yasmin Lima;Santos;São Paulo
+S0552;Júlia Costa;São Bernardo do Campo;São Paulo
+S0553;Zeca Moreira;São Caetano do Sul;São Paulo
+S0554;Kauê Gonçalves;São José dos Campos;São Paulo
+S0555;André Costa;São Paulo;São Paulo
+S0556;Lucas Pereira;Sâo Vicente;São Paulo
+S0557;Bianca Silva;Sorocaba;São Paulo
+S0558;Mariana Lima;Suzano;São Paulo
+S0559;Caio Gonçalves;Taubaté;São Paulo
+S0560;Natália Costa;Valinhos;São Paulo
+S0561;Daniela Costa;Barueri;São Paulo
+S0562;Otávio Moreira;Bauru;São Paulo
+S0563;Eduardo Moreira;Campinas;São Paulo
+S0564;Pedro Gonçalves;Carapicuíba;São Paulo
+S0565;Fernanda Lima;Diadema;São Paulo
+S0566;Quirino Lima;Franca;São Paulo
+S0567;Gustavo Gonçalves;Guarulhos;São Paulo
+S0568;Rafaela Costa;Itaquaquecetuba;São Paulo
+S0569;Helena Moreira;Jundiaí;São Paulo
+S0570;Samuel Moreira;Limeira;São Paulo
+S0471;Ícaro Costa;Mauá;São Paulo
+S0472;Tatiana Gonçalves;Mogi das Cruzes;São Paulo
+S0473;Jéssica Gonçalves;Osasco;São Paulo
+S0474;Ulisses Costa;Piracicaba;São Paulo
+S0475;Kauê Pereira;Praia Grande;São Paulo
+S0476;Valéria Moreira;Jundiaí;São Paulo
+S0477;Larissa Santos;Limeira;São Paulo
+S0478;William Santos;Mauá;São Paulo
+S0479;Marcos Moreira;Mogi das Cruzes;São Paulo
+S0480;Xênia Lima;Osasco;São Paulo
+S0481;Nívia Gonçalves;Piracicaba;São Paulo
+S0482;Yasmin Costa;Praia Grande;São Paulo
+S0483;Olivia Costa;Ribeirão Pires;São Paulo
+S0484;Zuleica Gonçalves;Rio Grande da Serra;São Paulo
+S0485;Pedro Moreira;Santo André;São Paulo
+S0486;Amanda Pereira;Santos;São Paulo
+S0487;Quirino Gonçalves;São Bernardo do Campo;São Paulo
+S0488;Bruno Santos;São Caetano do Sul;São Paulo
+S0489;Rafaela Santos;São José dos Campos;São Paulo
+S0490;Carla Costa;São Paulo;São Paulo
+S0491;Sérgio Costa;Sâo Vicente;São Paulo
+S0492;Diogo Gonçalves;Sorocaba;São Paulo
+S0493;Tatiana Moreira;Suzano;São Paulo
+S0494;Elisa Moreira;Taubaté;São Paulo
+S0495;Uirá Gonçalves;Valinhos;São Paulo
+S0496;Fabiano Lima;São Caetano do Sul;São Paulo
+S0497;Valéria Costa;Sâo Josê dos Campos;São Paulo
+S0498;Gabriel Costa;São José dos Campos;São Paulo
+S0499;William Lima;Sâo Paulo;São Paulo
+S0500;Helena Pereira;São Paulo;São Paulo
+S0501;Xênia Moreira;Sâo Vicente;São Paulo
+S0502;Inácio Gonçalves;Sorocaba;São Paulo
+S0503;Yago Gonçalves;Suzano;São Paulo
+S0504;Janaína Lima;Taubaté;São Paulo
+S0505;Zuleica Costa;Valinhos;São Paulo
+S0506;Kauê Costa;Barueri;São Paulo
+S0507;Amanda Moreira;Franca;São Paulo
+S0508;Larissa Moreira;Guarulhos;São Paulo
+S0509;Bruno Gonçalves;Itaquaquecetuba;São Paulo
+S0510;Marcelo Gonçalves;Jundiaí;São Paulo
+S0511;Carla Costa;Limeira;São Paulo
+S0512;Natália Pereira;Mauá;São Paulo
+S0436;Diego Silva;Barueri;São Paulo
+S0437;Otávio Lima;Bauru;São Paulo
+S0438;Elisa Moreira;Campinas;São Paulo
+S0439;Paula Costa;Carapicuíba;São Paulo
+S0440;Fábio Gonçalves;Ribeirão Pires;São Paulo
