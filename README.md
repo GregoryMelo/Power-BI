@@ -28,7 +28,7 @@ O curso abordou diversas ferramentas avançadas do Power BI, proporcionando habi
 
 - Power BI Desktop
   
-  ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+  [![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
 
 ## Dashboards Desenvolvidos
 
